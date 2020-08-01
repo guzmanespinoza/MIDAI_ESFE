@@ -13,3 +13,6 @@ C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\Mid
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\MidaiEsfe.Aplicacion.UI.WinForm\bin\Debug\MidaiEsfe.Aplicacion.AccesoADatos.dll
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\MidaiEsfe.Aplicacion.UI.WinForm\bin\Debug\MidaiEsfe.Aplicacion.AccesoADatos.pdb
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\MidaiEsfe.Aplicacion.UI.WinForm\obj\Debug\MidaiEsfe.Aplicacion.UI.WinForm.FrmPrincipal.resources
+C:\Users\Karla\Developers\GIT\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.UI.WinForm\bin\Debug\MidaiEsfe.Aplicacion.UI.WinForm.exe.config
+C:\Users\Karla\Developers\GIT\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.UI.WinForm\obj\Debug\MidaiEsfe.Aplicacion.UI.WinForm.exe
+C:\Users\Karla\Developers\GIT\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.UI.WinForm\obj\Debug\MidaiEsfe.Aplicacion.UI.WinForm.pdb
