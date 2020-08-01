@@ -1,0 +1,5 @@
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\MidaiEsfe.Aplicacion.EntidadesDeNegocio\bin\Debug\MidaiEsfe.Aplicacion.EntidadesDeNegocio.dll
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\MidaiEsfe.Aplicacion.EntidadesDeNegocio\bin\Debug\MidaiEsfe.Aplicacion.EntidadesDeNegocio.pdb
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\MidaiEsfe.Aplicacion.EntidadesDeNegocio\obj\Debug\MidaiEsfe.Aplicacion.EntidadesDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\MidaiEsfe.Aplicacion.EntidadesDeNegocio\obj\Debug\MidaiEsfe.Aplicacion.EntidadesDeNegocio.dll
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\MidaiEsfe\MidaiEsfe.Aplicacion.EntidadesDeNegocio\obj\Debug\MidaiEsfe.Aplicacion.EntidadesDeNegocio.pdb
