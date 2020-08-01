@@ -71,6 +71,6 @@ namespace MidaiEsfe.Aplicacion.AccesoADatos
             }
             return Modulo;
         }
-        }
+    }
 }
 
