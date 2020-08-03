@@ -12,3 +12,10 @@ C:\Users\Karla\Developers\GIT\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoAD
 C:\Users\Karla\Developers\GIT\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\obj\Debug\MidaiEsfe.Aplicacion.AccesoADatos.csprojResolveAssemblyReference.cache
 C:\Users\Karla\Developers\GIT\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\obj\Debug\MidaiEsfe.Aplicacion.AccesoADatos.dll
 C:\Users\Karla\Developers\GIT\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\obj\Debug\MidaiEsfe.Aplicacion.AccesoADatos.pdb
+C:\Users\Luise\Developers\git\.net\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\bin\Debug\MidaiEsfe.Aplicacion.AccesoADatos.dll
+C:\Users\Luise\Developers\git\.net\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\bin\Debug\MidaiEsfe.Aplicacion.AccesoADatos.pdb
+C:\Users\Luise\Developers\git\.net\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\bin\Debug\MidaiEsfe.Aplicacion.EntidadesDeNegocio.dll
+C:\Users\Luise\Developers\git\.net\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\bin\Debug\MidaiEsfe.Aplicacion.EntidadesDeNegocio.pdb
+C:\Users\Luise\Developers\git\.net\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\obj\Debug\MidaiEsfe.Aplicacion.AccesoADatos.csprojResolveAssemblyReference.cache
+C:\Users\Luise\Developers\git\.net\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\obj\Debug\MidaiEsfe.Aplicacion.AccesoADatos.dll
+C:\Users\Luise\Developers\git\.net\MIDAI_ESFE\MidaiEsfe\MidaiEsfe.Aplicacion.AccesoADatos\obj\Debug\MidaiEsfe.Aplicacion.AccesoADatos.pdb
